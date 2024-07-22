@@ -1,0 +1,44 @@
+{
+    "skills": [
+        {
+            "id": 1,
+            "src": "./img/product-chain-1.png",
+            "title": "Front-End",
+            "description": "He trabajado en la parte del frontend realizando interfaces con frameworks como react, vite, angular; y utilizando lenguajes como JavaScript y Typescript"
+        },
+        {
+            "id": 2,
+            "src": "./img/tag-1.png",
+            "title": "Back-End",
+            "description": "En en área del backend he desarrollado APIs de tipo REST y SOAP con frameworks como Springboot y ASP.NET"
+        },
+        {
+            "id": 3,
+            "src": "./img/feather-pen-2.png",
+            "title": "UI & UX design",
+            "description": "Durante mi formación universitaria he tomado optativas correspondientes al desarrollo de UX/UI y pruebas de usabilidad"
+        },
+        {
+            "id": 4,
+            "src": "./img/feather-pen-1.png",
+            "title": "Pruebas de Software",
+            "description": "Para las pruebas he utilizado herramientas como Junit y Mockito, así como pruebas realizadas a mano"
+        }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "src": "./img/apivollmed.png",
+            "title": "API REST vollmed",
+            "description": "API CRUD de tipo REST para una consultora médica. Realizado en Java 17 implementando JWT y SpringSecurity",
+            "link": "https://github.com/Johnuwu69/vollmed-api"
+        },
+        {
+            "id": 2,
+            "src": "./img/lammaecommerse.png",
+            "title": "Lamma e-commerce",
+            "description": "Página para un ecommerce realizado con NextJs implementando carrito de compras y pasarela de pagos",
+            "link": "https://github.com/Johnuwu69/ecommerce_lama"
+        }
+    ]
+}
