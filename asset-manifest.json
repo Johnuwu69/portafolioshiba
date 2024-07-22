@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/portafolioshiba/static/css/main.e2e414ff.css",
-    "main.js": "/portafolioshiba/static/js/main.b7964f21.js",
+    "main.js": "/portafolioshiba/static/js/main.bcb156d6.js",
     "index.html": "/portafolioshiba/index.html",
     "main.e2e414ff.css.map": "/portafolioshiba/static/css/main.e2e414ff.css.map",
-    "main.b7964f21.js.map": "/portafolioshiba/static/js/main.b7964f21.js.map"
+    "main.bcb156d6.js.map": "/portafolioshiba/static/js/main.bcb156d6.js.map"
   },
   "entrypoints": [
     "static/css/main.e2e414ff.css",
-    "static/js/main.b7964f21.js"
+    "static/js/main.bcb156d6.js"
   ]
 }
