@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portafolioshiba/build/static/css/main.e2e414ff.css",
+    "main.js": "/portafolioshiba/build/static/js/main.b7964f21.js",
+    "index.html": "/portafolioshiba/build/index.html",
+    "main.e2e414ff.css.map": "/portafolioshiba/build/static/css/main.e2e414ff.css.map",
+    "main.b7964f21.js.map": "/portafolioshiba/build/static/js/main.b7964f21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2e414ff.css",
+    "static/js/main.b7964f21.js"
+  ]
+}
